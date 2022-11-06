@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 
-- 🎓 &nbsp; Studying ECE at IIT(ISM) Dhanbad
-- 🌱 &nbsp; Learning and Exploring WEB development
-- ✍️ &nbsp; Programming and Developing
+- ⚡ &nbsp; Competitive programmer and WEB Developer.
+- 🎓 &nbsp; Final year Student of ECE at IIT(ISM) Dhanbad
+- 🌱 &nbsp; Learning and Exploring the World.
+- ✍️ &nbsp; Programming and Developing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
