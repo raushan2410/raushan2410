@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ⚡ &nbsp; Competitive programmer and WEB Developer.
-- 🎓 &nbsp; Final year Student of ECE at IIT(ISM) Dhanbad
+- 🎓 &nbsp; Final year Student of ECE at IIT(ISM) Dhanbad.
 - 🌱 &nbsp; Learning and Exploring the World.
 - ✍️ &nbsp; Programming and Developing.
 
@@ -12,6 +12,7 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
