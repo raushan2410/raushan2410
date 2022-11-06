@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning.
+- 🤔 &nbsp; 
 - 🎓 &nbsp; Studying ECE at IIT(ISM) Dhanbad
 - 🌱 &nbsp; Learning and Exploring WEB development
 - ✍️ &nbsp; Programming and Developing
@@ -40,7 +40,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p>
- <a href="https://raushan2410.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://grumpyyash.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+ <a href="https://raushan2410.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://raushan2410.github.io/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/raushan2410/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raushan%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:singhraushan2410@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhraushan2410@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
