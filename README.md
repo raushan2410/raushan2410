@@ -37,7 +37,7 @@
 
 <br/>
 
-[![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410)
+<!-- [![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410) --> 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p>
