@@ -98,8 +98,6 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410&theme=github-compact"/>
-
 
 ---
 
