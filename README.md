@@ -18,10 +18,8 @@ _Aug 2023 – Present_
 - Built large-scale infrastructure and inventory management platforms  
 - Designed fault-tolerant service workflows and resilient communication systems  
 - Developed automated access control and approval platforms  
-- Engineered network resource management and allocation services  
 - Implemented secure authentication & fine-grained authorization models  
-- Optimized API performance, latency, and throughput  
-- Wrote HLD/LLD and applied clean architecture principles  
+- Optimized API performance, latency, and throughput   
 - Deployed and operated services on container orchestration platforms  
 
 🏆 Top performance rating across engineering division
