@@ -90,18 +90,7 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 <br/>
 
 <img height="160em" src="https://streak-stats.demolab.com?user=raushan2410"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=raushan2410&theme=flat&no-frame=true&margin-w=10"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=raushan2410&style=flat-square"/>
+<img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410&theme=github-compact"/>
 
 
 ---
