@@ -74,30 +74,12 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 
 ---
 
-<!-- <h3> 📊 GitHub Stats </h3> -->
+<h3> 📊 GitHub Stats </h3>
 
-<!-- <p align="center">
+<p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&show_icons=true&count_private=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
-</p> -->
-<h3> 📊 &nbsp;GitHub Stats </h3>
-
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&count_private=true&show_icons=true&include_all_commits=true"/>
-</td>
-
-<td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
-</td>
-
-<td>
-  <img src="https://streak-stats.demolab.com?user=raushan2410"/>
-</td>
-</tr>
-</table>
-
+</p>
 
 ---
 
