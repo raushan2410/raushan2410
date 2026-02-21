@@ -1,47 +1,110 @@
-<h2> Hii there! I am Raushan Singh.</h2>
+md id="faang-readme-74291"
+<h1 align="center">Raushan Singh</h1>
+<h3 align="center">Software Engineer • Backend • Distributed Systems</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- ⚡ &nbsp; Competitive programmer and WEB Developer.
-- 🎓 &nbsp; Final year Student of ECE at IIT(ISM) Dhanbad.
-- 🌱 &nbsp; Learning and Exploring the World.
-- ✍️ &nbsp; Programming and Developing.
+## 👨🏻‍💻 About Me
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- Software Engineer building scalable backend systems in production
+- Experience designing high-reliability microservices and platform tooling
+- Strong focus on system design, performance, and distributed architectures
+- Background in competitive programming and data structures
+- B.Tech in Electronics & Communication Engineering — IIT(ISM) Dhanbad
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/M-mongoDB-green)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
-<br/>
+## 💼 Experience
 
-<a href="https://github.com/raushan2410">
+### Software Development Engineer  
+**Jio Platforms — Mumbai, India | Aug 2023 – Present**
+
+- Built and scaled production backend services managing large-scale infrastructure and inventory systems
+- Designed workflow orchestration and fault-tolerant service communication with durable execution and retries
+- Developed automated access control and approval platforms improving operational efficiency
+- Engineered IP and network resource management services with automated allocation and validation
+- Implemented authentication and fine-grained authorization models for secure enterprise systems
+- Improved API latency and throughput through concurrency and performance optimization
+- Wrote system design docs (HLD/LLD) and applied clean architecture principles in production
+- Deployed and operated services on container orchestration platforms with full CI/CD lifecycle
+
+**Award:** Top performance rating across engineering division
+
+---
+
+### Teaching Assistant Intern  
+**Coding Ninjas | Apr 2022 – Aug 2022**
+
+- Mentored students in Data Structures & Algorithms
+- Solved 500+ advanced problem-solving queries
+- Guided optimization and scalable solution approaches
+
+---
+
+## 🛠 Technical Strengths
+
+### Languages
+C++ • Java • Python • Golang
+
+### Backend Engineering
+REST APIs • Microservices • Event-Driven Systems • Workflow Orchestration
+
+### Distributed Systems
+Service Communication • Retries • Idempotency • Fault Tolerance • Consistency Models
+
+### Cloud & Infrastructure
+Containers • Kubernetes • CI/CD • Cloud Platforms • Infrastructure Automation
+
+### Datastores
+Relational DBs • NoSQL • Caching Systems • Search Indexes
+
+### Architecture & Design
+System Design • Domain-Driven Design • Clean/Hexagonal Architecture • Design Patterns
+
+### Observability
+Metrics • Logging • Monitoring • Production Debugging
+
+---
+
+## 🚀 Projects
+
+### URL Shortener
+- Scalable link shortening platform
+- Optimized storage and lookup performance
+- Containerized deployment
+
+### Deal Navigator
+- Full-stack price comparison system
+- Aggregation APIs and responsive UI
+
+---
+
+## 🧠 Problem Solving
+
+- Strong foundation in Data Structures & Algorithms
+- Competitive programming background
+- Focus on writing optimal and scalable solutions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raushan2410&count_private=true&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
-</a>
-
-<br/>
-
-<!-- [![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410) --> 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p>
- <a href="https://raushan2410.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://raushan2410.github.io/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/raushan2410/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raushan%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:singhraushan2410@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhraushan2410@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+---
+
+## 🤝 Connect
+
+- Portfolio: https://raushan2410.github.io/
+- LinkedIn: https://linkedin.com/in/raushan2410
+- Email: singhraushan2410@gmail.com
+- Location: India
+
+---
+
+### 🎯 Career Focus
+
+Building large-scale distributed systems and backend platforms powering high-impact products at global scale.
