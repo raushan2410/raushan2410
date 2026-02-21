@@ -82,15 +82,27 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 </p> -->
 <h3> 📊 &nbsp;GitHub Stats </h3>
 
-<a href="https://github.com/raushan2410">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
-</a>
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&count_private=true&show_icons=true&include_all_commits=true"/>
+</td>
+<td>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td>
+  <img src="https://streak-stats.demolab.com?user=raushan2410"/>
+</td>
+<td>
+  <img src="https://komarev.com/ghpvc/?username=raushan2410&style=flat-square"/>
+</td>
+</tr>
+</table>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=raushan2410"/>
-<img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410&theme=github-compact"/>
 
 
 ---
