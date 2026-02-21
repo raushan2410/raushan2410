@@ -83,13 +83,9 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 <!-- [![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410) -->
 ---
 
-<h3 align="center"> 🏅 Holopin Badges </h3>
+<h3> 🏅 &nbsp;Holopin Badges </h3>
 
-<p align="center">
-  <a href="https://holopin.io/@raushan2410">
-    <img src="https://holopin.me/raushan2410" alt="Holopin badges"/>
-  </a>
-</p>
+[![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410)
 
 ---
 
