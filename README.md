@@ -74,13 +74,36 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
 
 ---
 
+<!-- <h3> 📊 GitHub Stats </h3> -->
+
+<!-- <p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
+</p> -->
 <h3> 📊 &nbsp;GitHub Stats </h3>
 
 <a href="https://github.com/raushan2410">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raushan2410&count_private=true&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raushan2410&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
 </a>
-<!-- [![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410) -->
+
+<br/>
+
+<img height="160em" src="https://streak-stats.demolab.com?user=raushan2410"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan2410"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=raushan2410&theme=flat&no-frame=true&margin-w=10"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raushan2410&style=flat-square"/>
+
+
 ---
 
 <h3> 🏅 &nbsp;Holopin Badges </h3>
