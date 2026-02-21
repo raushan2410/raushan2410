@@ -80,7 +80,17 @@ Full-stack product comparison platform with aggregation APIs and responsive UI.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raushan2410&count_private=true&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
 </a>
-[![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410)
+<!-- [![@raushan2410's Holopin board](https://holopin.me/raushan2410)](https://holopin.io/@raushan2410) -->
+---
+
+<h3 align="center"> 🏅 Holopin Badges </h3>
+
+<p align="center">
+  <a href="https://holopin.io/@raushan2410">
+    <img src="https://holopin.me/raushan2410" alt="Holopin badges"/>
+  </a>
+</p>
+
 ---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
