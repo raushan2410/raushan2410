@@ -1,88 +1,104 @@
-<h1 align="center">Raushan Singh</h1>
-<h3 align="center">Software Engineer • Backend • Distributed Systems</h3>
+<h2> Hi there! I'm Raushan Singh 👋</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 💼 &nbsp;Software Engineer building scalable backend systems in production  
+- 🧠 &nbsp;Strong in Data Structures, Algorithms & System Design  
+- ⚙️ &nbsp;Focused on Distributed Systems, Reliability & Performance  
+- 🎓 &nbsp;B.Tech — Electronics & Communication Engineering, IIT(ISM) Dhanbad  
+- 🚀 &nbsp;Interested in large-scale engineering problems at global tech companies  
 
 ---
 
-## 👨🏻‍💻 About Me
+<h3> 💼 &nbsp;Experience </h3>
 
-- Software Engineer building scalable backend systems in production
-- Experience designing high-reliability microservices and platform tooling
-- Strong focus on system design, performance, and distributed architectures
-- Background in competitive programming and data structures
-- B.Tech in Electronics & Communication Engineering — IIT(ISM) Dhanbad
+**Software Development Engineer — Jio Platforms (Mumbai)**  
+_Aug 2023 – Present_
 
----
+- Built large-scale infrastructure and inventory management platforms  
+- Designed fault-tolerant service workflows and resilient communication systems  
+- Developed automated access control and approval platforms  
+- Engineered network resource management and allocation services  
+- Implemented secure authentication & fine-grained authorization models  
+- Optimized API performance, latency, and throughput  
+- Wrote HLD/LLD and applied clean architecture principles  
+- Deployed and operated services on container orchestration platforms  
 
-## 💼 Experience
-
-### Software Development Engineer  
-**Jio Platforms — Mumbai, India | Aug 2023 – Present**
-
-- Built and scaled production backend services managing large-scale infrastructure and inventory systems
-- Designed workflow orchestration and fault-tolerant service communication with durable execution and retries
-- Developed automated access control and approval platforms improving operational efficiency
-- Engineered IP and network resource management services with automated allocation and validation
-- Implemented authentication and fine-grained authorization models for secure enterprise systems
-- Improved API latency and throughput through concurrency and performance optimization
-- Wrote system design docs (HLD/LLD) and applied clean architecture principles in production
-- Deployed and operated services on container orchestration platforms with full CI/CD lifecycle
-
-**Award:** Top performance rating across engineering division
+🏆 Top performance rating across engineering division
 
 ---
 
-### Teaching Assistant Intern  
-**Coding Ninjas | Apr 2022 – Aug 2022**
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Mentored students in Data Structures & Algorithms
-- Solved 500+ advanced problem-solving queries
-- Guided optimization and scalable solution approaches
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+
+- 🌐 &nbsp;
+  ![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat)
+  ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat)
+  ![Distributed%20Systems](https://img.shields.io/badge/-Distributed%20Systems-333333?style=flat)
+
+- ☁️ &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat)
+  ![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat)
+
+- 🛢 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb)
+  ![Cache](https://img.shields.io/badge/-Caching-333333?style=flat)
+
+- ⚙️ &nbsp;
+  ![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat)
+  ![DDD](https://img.shields.io/badge/-DDD-333333?style=flat)
+  ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat)
+
+- 🔧 &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Observability](https://img.shields.io/badge/-Monitoring-333333?style=flat)
 
 ---
 
-## 🛠 Technical Strengths
+<h3> 🚀 &nbsp;Projects </h3>
 
-### Languages
-C++ • Java • Python • Golang
+**URL Shortener**  
+Scalable link shortening platform with optimized storage and lookup performance.
 
-### Backend Engineering
-REST APIs • Microservices • Event-Driven Systems • Workflow Orchestration
-
-### Distributed Systems
-Service Communication • Retries • Idempotency • Fault Tolerance • Consistency Models
-
-### Cloud & Infrastructure
-Containers • Kubernetes • CI/CD • Cloud Platforms • Infrastructure Automation
-
-### Datastores
-Relational DBs • NoSQL • Caching Systems • Search Indexes
-
-### Architecture & Design
-System Design • Domain-Driven Design • Clean/Hexagonal Architecture • Design Patterns
-
-### Observability
-Metrics • Logging • Monitoring • Production Debugging
+**Deal Navigator**  
+Full-stack product comparison platform with aggregation APIs and responsive UI.
 
 ---
 
-## 📊 GitHub Stats
+<h3> 📊 &nbsp;GitHub Stats </h3>
 
-<p align="center">
+<a href="https://github.com/raushan2410">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raushan2410&count_private=true&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2410&layout=compact"/>
+</a>
+
+---
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p>
+<a href="https://raushan2410.github.io/">
+  <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome">
+</a>
+
+<a href="https://linkedin.com/in/raushan2410">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raushan%20Singh-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="mailto:singhraushan2410@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-singhraushan2410%40gmail.com-blue?style=flat-square&logo=gmail">
+</a>
 </p>
 
 ---
 
-## 🤝 Connect
-
-- Portfolio: https://raushan2410.github.io/
-- LinkedIn: https://linkedin.com/in/raushan2410
-- Email: singhraushan2410@gmail.com
-- Location: India
-
----
-
-### 🎯 Career Focus
-
-Building large-scale distributed systems and backend platforms powering high-impact products at global scale.
+⭐️ From building scalable systems to solving algorithmic problems — focused on engineering at global scale.
