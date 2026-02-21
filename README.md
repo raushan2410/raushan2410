@@ -1,4 +1,3 @@
-md id="faang-readme-74291"
 <h1 align="center">Raushan Singh</h1>
 <h3 align="center">Software Engineer • Backend • Distributed Systems</h3>
 
@@ -63,27 +62,6 @@ System Design • Domain-Driven Design • Clean/Hexagonal Architecture • Desi
 
 ### Observability
 Metrics • Logging • Monitoring • Production Debugging
-
----
-
-## 🚀 Projects
-
-### URL Shortener
-- Scalable link shortening platform
-- Optimized storage and lookup performance
-- Containerized deployment
-
-### Deal Navigator
-- Full-stack price comparison system
-- Aggregation APIs and responsive UI
-
----
-
-## 🧠 Problem Solving
-
-- Strong foundation in Data Structures & Algorithms
-- Competitive programming background
-- Focus on writing optimal and scalable solutions
 
 ---
 
